@@ -5,8 +5,8 @@
     
     <entry>
       <title>生在红旗下测试</title>
-      <link href="/blog/%E7%94%9F%E5%9C%A8%E7%BA%A2%E6%97%97%E4%B8%8B%E6%B5%8B%E8%AF%95/"/>
-      <url>/blog/%E7%94%9F%E5%9C%A8%E7%BA%A2%E6%97%97%E4%B8%8B%E6%B5%8B%E8%AF%95/</url>
+      <link href="/blog/%E7%94%9F%E5%9C%A8%E7%BA%A2%E6%97%97%E4%B8%8B%E6%B5%8B%E8%AF%95/xieezy.github.io.gitgit"/>
+      <url>/blog/%E7%94%9F%E5%9C%A8%E7%BA%A2%E6%97%97%E4%B8%8B%E6%B5%8B%E8%AF%95/xieezy.github.io.gitgit</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>生在红旗下，就是说我们是新中国成立后出生的一代，是在五星红旗的护佑下出生的，长在春风里，是说我们赶上了好时代，趁着改革的春风自由自在的生长。 新中国成立后，为了适应国家国防建设和经济建设对高级人才的迫切需要，党和政府除了对原有高校进行改造外，集中了相当数量的人力、物力和财力，有计划地新建了大批高等院校。 从邯郸学步照搬“苏联模式”，到如今坚持中国特色“科教兴国”，我国高等教育不断成长虽承受风雨，却历久弥坚。</p>]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>测试页面</title>
-      <link href="/blog/done/"/>
-      <url>/blog/done/</url>
+      <link href="/blog/done/xieezy.github.io.gitgit"/>
+      <url>/blog/done/xieezy.github.io.gitgit</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>你可以查看，以下文档进行自定义设置。</p><blockquote><p>网站修改配置文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/butterfly"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
       
